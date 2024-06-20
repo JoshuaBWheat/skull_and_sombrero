@@ -5,6 +5,9 @@
 This is a simple project I created for a class. The goal is to create a front-end functional website for a fictitious restaurant of my creation.
 
 ### Use Policy
+
+Copyright 2024 Joshua Wheat
+
 1. Permission Required: No part of this project, including code, images, documentation, and other resources, may be used, copied, modified, or distributed without express written permission from the project owner. Unauthorized use is strictly prohibited.
 
 2. Requesting Permission: To request permission for any use of the project, please contact business@joshuawheat.com.
