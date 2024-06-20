@@ -22,4 +22,4 @@ This is a simple project I created for a class. The goal is to create a front-en
 
 
 #### Attributions
-- Logo was created using AI.
+- Logo (skull2.png) was created using AI.
